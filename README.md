@@ -37,17 +37,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 GitHub Stats
 <span align="center">
-  
   [![Visits Badge](https://komarev.com/ghpvc/?username=AqdasZishan&style=for-the-badge&color=FE7A16&label=VIEWS)](https://github.com/AqdasZishan)
   [![Repos Badge](https://badges.strrl.dev/repos/AqdasZishan?style=for-the-badge&color=FE7A16&label=REPOS)](https://github.com/AqdasZishan?tab=repositories)
   [![Contributions Badge](https://badges.strrl.dev/contributions/all/AqdasZishan?style=for-the-badge&color=FE7A16&label=CONTRIBUTIONS)](https://github.com/AqdasZishan)
   
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1C1917&border_color=FE7A16&border_radius=6&count_private=true&include_all_commits=true)](https://github.com/AqdasZishan)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1C1917&border_color=FE7A16&border_radius=6&count_private=false&include_all_commits=true)](https://github.com/AqdasZishan)
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AqdasZishan&layout=compact&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1C1917&border_color=FE7A16&border_radius=6)](https://github.com/AqdasZishan)
   
 </span>
-[![Aqdas Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&theme=radical)]
+![Aqdas Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AqdasZishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
