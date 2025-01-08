@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📈 GitHub Stats
 <span align="center">
   
-  [![Visits Badge](https://komarev.com/ghpvc/?username=AqdasZishan&style=for-the-badge&color=FE7A16&label=VIEWS)](https://github.com/AqdasZishan)
+  [![Visits Badge](https://komarev.com/ghpvc/?username=AqdasZishan&label=VIEWS)](https://github.com/AqdasZishan)
   [![Repos Badge](https://badges.strrl.dev/repos/AqdasZishan?style=for-the-badge&color=FE7A16&label=REPOS)](https://github.com/AqdasZishan?tab=repositories)
   [![Contributions Badge](https://badges.strrl.dev/contributions/all/AqdasZishan?style=for-the-badge&color=FE7A16&label=CONTRIBUTIONS)](https://github.com/AqdasZishan)
   
