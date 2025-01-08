@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AqdasZishan&layout=compact&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1C1917&border_color=FE7A16&border_radius=6)](https://github.com/AqdasZishan)
   
 </span>
-![Aqdas Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&theme=radical)
+[![Aqdas Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AqdasZishan&show_icons=true&theme=radical)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AqdasZishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
