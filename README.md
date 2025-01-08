@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Tech Stack
 <details>
-<summary>Languages:</summary>
+  <summary>Languages:</summary>
   <p></p>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </details>
 
 <details>
-  <summary>Technologies / Frameworks:</summary><p></p>
+  <summary>Technologies / Frameworks:</summary>
+  <p></p>
 
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -62,7 +63,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </details>
 
 <details>
-<summary>Databases:</summary>
+  <summary>Databases:</summary>
+  <p></p>
   
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
@@ -71,7 +73,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </details>
 
 <details>
-<summary>Tools:</summary>
+  <summary>Tools:</summary>
+  <p></p>
   
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
