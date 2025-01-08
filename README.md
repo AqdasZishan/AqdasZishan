@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
 -->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqdaszishan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqdas_zishan)
@@ -35,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </details>
 
 <details>
-  <summary>Technologies / Frameworks:</summary>
+  <summary>Technologies / Frameworks:</summary><p></p>
 
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
