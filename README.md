@@ -30,9 +30,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ Fun fact: [A Fun Fact About You]
 -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aqdaszishan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqdas_zishan)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/AqdasZishan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqdaszishan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram)](https://instagram.com/aqdas_zishan)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-%231DA1F2.svg?logo=X)](https://twitter.com/AqdasZishan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AqdasZishan/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aqdaszishan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510435/aqdas-zishan)
+
 
 <!--## 💻 Tech Stack:-->
 
