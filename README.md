@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-%231DA1F2.svg?logo=X&logoColor=black)](https://twitter.com/AqdasZishan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=black)](https://www.codechef.com/users/aqdaszishan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AqdasZishan/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510435/aqdas-zishan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510435/aqdas-zishan?tab=profile)
 
 ## 🛠️ Tech Stack
 <details>
